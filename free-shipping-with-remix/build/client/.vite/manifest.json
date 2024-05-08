@@ -1,0 +1,215 @@
+{
+  "/Users/prernamayeetripathy/Documents/HOUNDSTOOTH/COUNTER-CULTURE/SANDBOX-DEV-THEME/functions-app-9/free-shipping-with-remix/node_modules/@shopify/polaris/build/esm/styles.css": {
+    "file": "assets/styles-DT9i95_b.css",
+    "src": "/Users/prernamayeetripathy/Documents/HOUNDSTOOTH/COUNTER-CULTURE/SANDBOX-DEV-THEME/functions-app-9/free-shipping-with-remix/node_modules/@shopify/polaris/build/esm/styles.css"
+  },
+  "_FormLayout-D7o2Y5MA.js": {
+    "file": "assets/FormLayout-D7o2Y5MA.js",
+    "name": "FormLayout",
+    "imports": [
+      "_index-Ch8JEnIn.js",
+      "_Page-BT2t6vSp.js"
+    ]
+  },
+  "_Layout-CyUPfQv3.js": {
+    "file": "assets/Layout-CyUPfQv3.js",
+    "name": "Layout",
+    "imports": [
+      "_index-Ch8JEnIn.js",
+      "_Page-BT2t6vSp.js"
+    ]
+  },
+  "_List-DkrqYOjR.js": {
+    "file": "assets/List-DkrqYOjR.js",
+    "name": "List",
+    "imports": [
+      "_index-Ch8JEnIn.js",
+      "_Page-BT2t6vSp.js"
+    ]
+  },
+  "_Page-BT2t6vSp.js": {
+    "file": "assets/Page-BT2t6vSp.js",
+    "name": "Page",
+    "imports": [
+      "_index-Ch8JEnIn.js",
+      "_context-CpMjy5br.js"
+    ]
+  },
+  "_components-Ch7L-ocN.js": {
+    "file": "assets/components-Ch7L-ocN.js",
+    "name": "components",
+    "imports": [
+      "_index-Ch8JEnIn.js"
+    ]
+  },
+  "_context-CpMjy5br.js": {
+    "file": "assets/context-CpMjy5br.js",
+    "name": "context",
+    "imports": [
+      "_index-Ch8JEnIn.js"
+    ]
+  },
+  "_index-Ch8JEnIn.js": {
+    "file": "assets/index-Ch8JEnIn.js",
+    "name": "index"
+  },
+  "_styles-aSPFV0jc.js": {
+    "file": "assets/styles-aSPFV0jc.js",
+    "name": "styles",
+    "imports": [
+      "_index-Ch8JEnIn.js",
+      "_context-CpMjy5br.js"
+    ]
+  },
+  "app/root.jsx?client-route=1": {
+    "file": "assets/root-DzTjabTP.js",
+    "name": "root",
+    "src": "app/root.jsx?client-route=1",
+    "isEntry": true,
+    "imports": [
+      "_index-Ch8JEnIn.js",
+      "_components-Ch7L-ocN.js"
+    ]
+  },
+  "app/routes/_index/route.jsx?client-route=1": {
+    "file": "assets/route-DG_PtVup.js",
+    "name": "route",
+    "src": "app/routes/_index/route.jsx?client-route=1",
+    "isEntry": true,
+    "imports": [
+      "_index-Ch8JEnIn.js",
+      "_components-Ch7L-ocN.js"
+    ],
+    "css": [
+      "assets/route-COVlfczw.css"
+    ]
+  },
+  "app/routes/app._index.jsx?client-route=1": {
+    "file": "assets/app._index-BMDc9QAI.js",
+    "name": "app._index",
+    "src": "app/routes/app._index.jsx?client-route=1",
+    "isEntry": true,
+    "imports": [
+      "_index-Ch8JEnIn.js",
+      "_components-Ch7L-ocN.js",
+      "_Page-BT2t6vSp.js",
+      "_Layout-CyUPfQv3.js",
+      "_List-DkrqYOjR.js",
+      "_context-CpMjy5br.js"
+    ]
+  },
+  "app/routes/app.additional.jsx?client-route=1": {
+    "file": "assets/app.additional-D_Rr7XFD.js",
+    "name": "app.additional",
+    "src": "app/routes/app.additional.jsx?client-route=1",
+    "isEntry": true,
+    "imports": [
+      "_index-Ch8JEnIn.js",
+      "_Page-BT2t6vSp.js",
+      "_Layout-CyUPfQv3.js",
+      "_List-DkrqYOjR.js",
+      "_context-CpMjy5br.js"
+    ]
+  },
+  "app/routes/app.jsx?client-route=1": {
+    "file": "assets/app-Bytagv-S.js",
+    "name": "app",
+    "src": "app/routes/app.jsx?client-route=1",
+    "isEntry": true,
+    "imports": [
+      "_index-Ch8JEnIn.js",
+      "_components-Ch7L-ocN.js",
+      "_styles-aSPFV0jc.js",
+      "_context-CpMjy5br.js"
+    ]
+  },
+  "app/routes/app.shipping-discount.$functionId.$id.jsx?client-route=1": {
+    "file": "assets/app.shipping-discount._functionId._id-C3INsyx4.js",
+    "name": "app.shipping-discount._functionId._id",
+    "src": "app/routes/app.shipping-discount.$functionId.$id.jsx?client-route=1",
+    "isEntry": true,
+    "imports": [
+      "_index-Ch8JEnIn.js",
+      "_components-Ch7L-ocN.js",
+      "_Page-BT2t6vSp.js",
+      "_Layout-CyUPfQv3.js",
+      "_context-CpMjy5br.js"
+    ]
+  },
+  "app/routes/app.shipping-discount.jsx?client-route=1": {
+    "file": "assets/app.shipping-discount-C3INsyx4.js",
+    "name": "app.shipping-discount",
+    "src": "app/routes/app.shipping-discount.jsx?client-route=1",
+    "isEntry": true,
+    "imports": [
+      "_index-Ch8JEnIn.js",
+      "_components-Ch7L-ocN.js",
+      "_Page-BT2t6vSp.js",
+      "_Layout-CyUPfQv3.js",
+      "_context-CpMjy5br.js"
+    ]
+  },
+  "app/routes/app.test.jsx?client-route=1": {
+    "file": "assets/app.test-Df2_Ixf7.js",
+    "name": "app.test",
+    "src": "app/routes/app.test.jsx?client-route=1",
+    "isEntry": true,
+    "imports": [
+      "_index-Ch8JEnIn.js",
+      "_Page-BT2t6vSp.js",
+      "_Layout-CyUPfQv3.js",
+      "_context-CpMjy5br.js"
+    ]
+  },
+  "app/routes/app.volume-discount.jsx?client-route=1": {
+    "file": "assets/app.volume-discount-CchaQGnh.js",
+    "name": "app.volume-discount",
+    "src": "app/routes/app.volume-discount.jsx?client-route=1",
+    "isEntry": true,
+    "imports": [
+      "_index-Ch8JEnIn.js",
+      "_components-Ch7L-ocN.js",
+      "_Layout-CyUPfQv3.js",
+      "_List-DkrqYOjR.js",
+      "_Page-BT2t6vSp.js",
+      "_context-CpMjy5br.js",
+      "_FormLayout-D7o2Y5MA.js"
+    ]
+  },
+  "app/routes/auth.$.jsx?client-route=1": {
+    "file": "assets/auth._-l0sNRNKZ.js",
+    "name": "auth._",
+    "src": "app/routes/auth.$.jsx?client-route=1",
+    "isEntry": true
+  },
+  "app/routes/auth.login/route.jsx?client-route=1": {
+    "file": "assets/route-C-mNh1T7.js",
+    "name": "route",
+    "src": "app/routes/auth.login/route.jsx?client-route=1",
+    "isEntry": true,
+    "imports": [
+      "_index-Ch8JEnIn.js",
+      "_styles-aSPFV0jc.js",
+      "_components-Ch7L-ocN.js",
+      "_Page-BT2t6vSp.js",
+      "_FormLayout-D7o2Y5MA.js",
+      "_context-CpMjy5br.js"
+    ]
+  },
+  "app/routes/webhooks.jsx?client-route=1": {
+    "file": "assets/webhooks-l0sNRNKZ.js",
+    "name": "webhooks",
+    "src": "app/routes/webhooks.jsx?client-route=1",
+    "isEntry": true
+  },
+  "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx": {
+    "file": "assets/entry.client-D_rXg3lC.js",
+    "name": "entry.client",
+    "src": "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx",
+    "isEntry": true,
+    "imports": [
+      "_index-Ch8JEnIn.js",
+      "_components-Ch7L-ocN.js"
+    ]
+  }
+}

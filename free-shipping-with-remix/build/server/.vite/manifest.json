@@ -1,0 +1,15 @@
+{
+  "/Users/prernamayeetripathy/Documents/HOUNDSTOOTH/COUNTER-CULTURE/SANDBOX-DEV-THEME/functions-app-9/free-shipping-with-remix/node_modules/@shopify/polaris/build/esm/styles.css": {
+    "file": "assets/styles-DT9i95_b.css",
+    "src": "/Users/prernamayeetripathy/Documents/HOUNDSTOOTH/COUNTER-CULTURE/SANDBOX-DEV-THEME/functions-app-9/free-shipping-with-remix/node_modules/@shopify/polaris/build/esm/styles.css"
+  },
+  "virtual:remix/server-build": {
+    "file": "index.js",
+    "name": "server-build",
+    "src": "virtual:remix/server-build",
+    "isEntry": true,
+    "css": [
+      "assets/server-build-COVlfczw.css"
+    ]
+  }
+}
